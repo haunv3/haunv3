@@ -1,6 +1,6 @@
-![MasterHead]
+![MasterHead](https://static01.bbi.io/2Wt9Tk.gif)
 
-![hippo](https://media3.giphy.com/media/aUovxH8Vf9qDu/giphy.gif)
+![hippo]
 
 <div id="header" align="center">
   <h2> Hi 👋 I'm Nguyen Van Hau, Developer.</h2>
