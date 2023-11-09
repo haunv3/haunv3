@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋,I'm Nguyen Van Hau, Developer.</h1>
+
 <h3 align="center">Hi 👋 I'm Nguyen Van Hau, Developer.</h3>
 
 <h3 align="left">Connect with me:</h3>
