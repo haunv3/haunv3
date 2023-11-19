@@ -1,16 +1,5 @@
 ![MasterHead](https://static01.bbi.io/2Wt9Tk.gif)
 
-<div id="header" align="center">
-  <h2> Hi 👋 I'm Nguyen Van Hau, Developer.</h2>
-  <div id="badges">
-    <a href="https://www.linkedin.com/">
-      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-    </a>
-    <a href="mailto:nguyenvanhauit1997@gmail.com">
-      <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
-    </a>
-  </div>
-</div>
 
 <!-- "Hero" Header -->
 <div align="center">
