@@ -50,7 +50,7 @@
 </table>
 
 <div align="center">
-<a href="https://github.com/BrunnerLivio/brunnerlivio/issues/62#issuecomment-new"><img src="images/guestbook.svg"></a> 
+<a href="/"><img src="images/guestbook.svg"></a> 
 </div>
 
 #### :hammer_and_wrench: Languages and Tools :
