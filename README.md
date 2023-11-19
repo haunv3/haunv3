@@ -2,8 +2,6 @@
 
 <div id="header" align="center">
   <h2> My Name is Hau Nguyen Van and I like Javascript</h2>
-  <br />
-  <br />
   <div id="badges">
     <a href="https://www.linkedin.com/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -13,7 +11,6 @@
     </a>
   </div>
 </div>
-<br />
 <br />
 
 <!-- Social -->
