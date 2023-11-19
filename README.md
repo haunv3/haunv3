@@ -12,6 +12,20 @@
 
 </div>
 
+
+<div id="header" align="center">
+  <h2> Hi 👋 I'm Nguyen Van Hau, Developer.</h2>
+  <div id="badges">
+    <a href="https://www.linkedin.com/">
+      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    </a>
+    <a href="mailto:nguyenvanhauit1997@gmail.com">
+      <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+    </a>
+  </div>
+</div>
+
+
 <!-- Social -->
 <table width="100%" align="center">
 <tr>
@@ -49,18 +63,6 @@
 
 <div align="center">
 <a href="https://github.com/BrunnerLivio/brunnerlivio/issues/62#issuecomment-new"><img src="images/guestbook.svg"></a> 
-</div>
-
-<div id="header" align="center">
-  <h2> Hi 👋 I'm Nguyen Van Hau, Developer.</h2>
-  <div id="badges">
-    <a href="https://www.linkedin.com/">
-      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-    </a>
-    <a href="mailto:nguyenvanhauit1997@gmail.com">
-      <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
-    </a>
-  </div>
 </div>
 
 #### :hammer_and_wrench: Languages and Tools :
