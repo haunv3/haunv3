@@ -1,20 +1,7 @@
 ![MasterHead](https://static01.bbi.io/2Wt9Tk.gif)
 
-
-<!-- "Hero" Header -->
-<div align="center">
-  <img src="https://github.com/BrunnerLivio/brunnerlivio/blob/master/images/welcome.png?raw=true" style="max-width: 100%;" alt="Welcome to my Github Profile" />
-  <br />
-  <br />
-  <img height="50" alt="My Name is Hajua and I like Javascript" src="images/personal_note.svg" />
-  <br />
-  <br />
-
-</div>
-
-
 <div id="header" align="center">
-  <h2> Hi 👋 I'm Nguyen Van Hau, Developer.</h2>
+  <h2> My Name is Hau Nguyen Van and I like Javascript</h2>
   <div id="badges">
     <a href="https://www.linkedin.com/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
