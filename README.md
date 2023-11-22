@@ -3,12 +3,13 @@
 <div id="header" align="center">
   <h2> My Name is Hau Nguyen Van and I like Javascript</h2>
   <div id="badges">
-    <a href="https://www.linkedin.com/">
-      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-    </a>
-    <a href="mailto:nguyenvanhauit1997@gmail.com">
+      <a href="mailto:nguyenvanhauit1997@gmail.com">
       <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
     </a>
+    <a href="[https://www.linkedin.com/](https://www.linkedin.com/in/hau-nv-a72b38208?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)">
+      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    </a>
+  
   </div>
 </div>
 <br />
