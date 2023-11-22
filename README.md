@@ -56,9 +56,8 @@
 </div>
 
 <br />
+<h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
 <br />
-<!-- #### :hammer_and_wrench: Languages and Tools : -->
-
 <p align="center">
   <code><img title="HTML5" height="25" src="images/html5.svg"></code>
   <code><img title="CSS" height="25" src="images/css.svg"></code>
