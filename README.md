@@ -1,4 +1,5 @@
 ![MasterHead](https://static01.bbi.io/2Wt9Tk.gif)
+<img src="images/developer-side-hustles.jpeg" alt="developer"/>
 
 <div id="header" align="center">
   <h2> My Name is Hau Nguyen Van and I like Javascript</h2>
