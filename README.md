@@ -53,7 +53,8 @@
 </table>
 
 <div align="center">
-<a href="/"><img src="images/guestbook.svg"></a> 
+  
+<!-- <a href="/"><img src="images/guestbook.svg"></a>  -->
 </div>
 
 <br />
