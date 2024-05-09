@@ -65,7 +65,7 @@
   <code><img title="Javascript" height="25" src="images/javascript.svg"></code>
   <code><img title="Nextjs" height="25" src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original-wordmark.svg"></code>
   <code><img title="Typescript" height="25" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg"></code>
-  <code><img title="NestJS" height="25" src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-plain-wordmark.svg"></code>
+<!--   <code><img title="NestJS" height="25" src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-plain-wordmark.svg"></code> -->
   <code><img title="SASS" height="25" src="images/sass.svg"></code>
   <code><img title="React" height="25" src="images/react-original.svg"></code>
   <code><img title="Redux" height="25" src="images/redux.svg"></code>
